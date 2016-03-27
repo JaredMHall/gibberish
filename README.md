@@ -1,7 +1,7 @@
 # gibberish
 
 ## Introduction & User Guide
-gibberish is a small tool that creates gibberish text. Like straight up random words with no structure. It does however mimic the English language to a very small extent on the larger scale as far as sentences and paragraphs go. I wanted a text generator for when I'm building a website or doing anything else where I may need text placeholders. I realise that most people would make it so it uses an English dictionary instead of using randomly generated text. The reason I didn't do that is because I wanted to have roughly the format of English without the words.. why? because it's distracting for me. When I'm working against a deadline I want to work as efficiently as possible with as little distraction as possible.  
+gibberish is a small tool that creates gibberish text. Like straight up random words with no structure. It does however mimic the English language to a very small extent on the larger scale as far as sentences and paragraphs go. I made it because I wanted a text generator for when I'm building a website or doing anything else where I may need text placeholders. I realise that most people would make it so it uses an English dictionary instead of using randomly generated text. The reason I didn't do that is because I wanted to have roughly the format of English without the words.. why? because it's distracting for me. When I'm working against a deadline I want to work as efficiently as possible with as little distraction as possible.  
 
 Straight off the bat all it needs to run is a word count:  
 `gibberish 500`   
